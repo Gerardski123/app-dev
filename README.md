@@ -1,8 +1,8 @@
 # app-dev
 My First Repository
 ---
-| My Favorite | 
-| --- | --- |
+My Favorite
+---
 | Series | Movies | 
 | The Man in High Castle | Godzilla |
 | Harry Potter | Maverick |
